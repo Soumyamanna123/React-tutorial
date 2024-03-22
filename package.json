@@ -1,0 +1,15 @@
+{
+  "name": "react-tutorial-2.0",
+  "version": "1.0.0",
+  "description": "This is react tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Soumyamanna123/React-tutorial-NR-"
+  },
+  "author": "",
+  "license": "ISC"
+}
